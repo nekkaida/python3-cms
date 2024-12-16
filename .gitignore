@@ -29,3 +29,9 @@ ENV/
 env/
 .env/
 .venv/
+
+# SQLite Database
+contacts.db
+
+# Log Files
+contact_manager.log
