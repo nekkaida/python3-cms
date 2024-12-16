@@ -588,7 +588,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries, suggestions, or support, please reach out:
 
 - **Kenneth Riadi Nugroho**
-- **Email:** nekkaida@example.com
+- **Email:** nekkaida@gmail.com
 - **GitHub:** [github.com/nekkaida](https://github.com/nekkaida)
 
 *Alternatively, you can open an issue on the GitHub repository to discuss any aspect of the project.*
